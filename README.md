@@ -10,14 +10,14 @@
 
 ## My collection (In update)
   
-| Console | Model | Mod | Details |
-| --- | --- | --- | --- |
-|PlayStation |SCPH-9002 | softmod -> *TonyHax Internetional* |
-|PlayStation 2 |SCPH-70004 |softmod -> *FreeMCBoot* |
+| Console | Model | Modification |
+| --- | --- | --- |
+|PlayStation | SCPH-9002 | softmod -> *TonyHax Internetional* |
+|PlayStation 2 Slim | SCPH-70004 | softmod -> *FreeMCBoot* |
 |PlayStation 3 Slim |
 | /// |
 |Original Xbox |  | hardmod -> *Not made by me* |
-|Xbox 360 Core | Xenon |  | **GPU to be fixed** |
+|Xbox 360 Core | Xenon | **GPU to be fixed** |
 |Xbox 360 Arcade | Falcon V2 |
 |Xbox 360 Elite | Falcon V1 | softmod -> *ABadAvatar* |
 |Xbox 360 Elite | Jasper |
