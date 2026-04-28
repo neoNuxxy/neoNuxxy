@@ -5,6 +5,8 @@
   
 # What do you do?
   🎮 Huge collection of videogame consoles and games  
+  ✅ Dumped my over 100 game disks
+  📐 I use Arch btw  
   📒 Learning programming and IT  
   📷 Photographer  
 
