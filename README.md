@@ -16,7 +16,7 @@
 | --- | --- | --- |
 |PlayStation | SCPH-9002 | softmod -> *TonyHax Internetional* |
 |PlayStation 2 Slim | SCPH-70004 | softmod -> *FreeMCBoot* |
-|PlayStation 3 Slim |
+|PlayStation 3 Slim | CECH-2004B |
 | /// |
 |Original Xbox | 1.6 | hardmod -> *Not made by me* |
 |Xbox 360 Core | Xenon | **GPU to be fixed** |
