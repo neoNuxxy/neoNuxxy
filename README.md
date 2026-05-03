@@ -26,6 +26,6 @@
 |Xbox Series S |
 | /// |	
 |Nintendo DS | Phat | cartmod -> *R4* |
-|NIntendo 3DS | Old XL | softmod -> *Luma3DS* |
-|Nintendo Wii | Rev-001 | softmod -> *Homebrew* |
-|Nintendo Switch |
+|NIntendo 3DS | SPR-001 (Old XL) | softmod -> *Luma3DS* |
+|Nintendo Wii | RVL-001 (EUR) | softmod -> *Homebrew* |
+|Nintendo Switch | HAC-001 |
