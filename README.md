@@ -19,11 +19,11 @@
 |PlayStation 3 Slim | CECH-2004B |
 | /// |
 |Original Xbox | 1.6 | hardmod -> *Not made by me* |
-|Xbox 360 Core | Xenon | **GPU to be fixed** |
+|Xbox 360 Pro | Xenon | **GPU to be fixed** |
 |Xbox 360 Arcade | Falcon V2 |
 |Xbox 360 Elite | Falcon V1 | softmod -> *ABadAvatar* |
 |Xbox 360 Elite | Jasper |
-|Xbox Series S |
+|Xbox Series S | ... |
 | /// |	
 |Nintendo DS | Phat | cartmod -> *R4* |
 |NIntendo 3DS | SPR-001 (Old XL) | softmod -> *Luma3DS* |
